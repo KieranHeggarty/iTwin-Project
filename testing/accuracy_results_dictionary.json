@@ -1,0 +1,502 @@
+{
+  "cow-0001": {
+    "predicted_plateau": 115,
+    "real_plateau": 107,
+    "accuracy": 8
+  },
+  "cow-0002": {
+    "predicted_plateau": 145,
+    "real_plateau": 139,
+    "accuracy": 6
+  },
+  "cow-0003": {
+    "predicted_plateau": 120,
+    "real_plateau": 115,
+    "accuracy": 5
+  },
+  "cow-0004": {
+    "predicted_plateau": 139,
+    "real_plateau": 131,
+    "accuracy": 8
+  },
+  "cow-0005": {
+    "predicted_plateau": 115,
+    "real_plateau": 111,
+    "accuracy": 4
+  },
+  "cow-0006": {
+    "predicted_plateau": 122,
+    "real_plateau": 118,
+    "accuracy": 4
+  },
+  "cow-0007": {
+    "predicted_plateau": 140,
+    "real_plateau": 134,
+    "accuracy": 6
+  },
+  "cow-0008": {
+    "predicted_plateau": 139,
+    "real_plateau": 154,
+    "accuracy": 15
+  },
+  "cow-0009": {
+    "predicted_plateau": 114,
+    "real_plateau": 116,
+    "accuracy": 2
+  },
+  "cow-0010": {
+    "predicted_plateau": 152,
+    "real_plateau": 146,
+    "accuracy": 6
+  },
+  "cow-0011": {
+    "predicted_plateau": 154,
+    "real_plateau": 159,
+    "accuracy": 5
+  },
+  "cow-0012": {
+    "predicted_plateau": 139,
+    "real_plateau": 135,
+    "accuracy": 4
+  },
+  "cow-0013": {
+    "predicted_plateau": 120,
+    "real_plateau": 118,
+    "accuracy": 2
+  },
+  "cow-0014": {
+    "predicted_plateau": 159,
+    "real_plateau": 151,
+    "accuracy": 8
+  },
+  "cow-0015": {
+    "predicted_plateau": 119,
+    "real_plateau": 111,
+    "accuracy": 8
+  },
+  "cow-0016": {
+    "predicted_plateau": 150,
+    "real_plateau": 146,
+    "accuracy": 4
+  },
+  "cow-0017": {
+    "predicted_plateau": 125,
+    "real_plateau": 116,
+    "accuracy": 9
+  },
+  "cow-0018": {
+    "predicted_plateau": 155,
+    "real_plateau": 148,
+    "accuracy": 7
+  },
+  "cow-0019": {
+    "predicted_plateau": 110,
+    "real_plateau": 104,
+    "accuracy": 6
+  },
+  "cow-0020": {
+    "predicted_plateau": 126,
+    "real_plateau": 123,
+    "accuracy": 3
+  },
+  "cow-0021": {
+    "predicted_plateau": 134,
+    "real_plateau": 131,
+    "accuracy": 3
+  },
+  "cow-0022": {
+    "predicted_plateau": 131,
+    "real_plateau": 124,
+    "accuracy": 7
+  },
+  "cow-0023": {
+    "predicted_plateau": 139,
+    "real_plateau": 138,
+    "accuracy": 1
+  },
+  "cow-0024": {
+    "predicted_plateau": 136,
+    "real_plateau": 129,
+    "accuracy": 7
+  },
+  "cow-0025": {
+    "predicted_plateau": 146,
+    "real_plateau": 144,
+    "accuracy": 2
+  },
+  "cow-0026": {
+    "predicted_plateau": 123,
+    "real_plateau": 117,
+    "accuracy": 6
+  },
+  "cow-0027": {
+    "predicted_plateau": 155,
+    "real_plateau": 153,
+    "accuracy": 2
+  },
+  "cow-0028": {
+    "predicted_plateau": 137,
+    "real_plateau": 128,
+    "accuracy": 9
+  },
+  "cow-0029": {
+    "predicted_plateau": 157,
+    "real_plateau": 150,
+    "accuracy": 7
+  },
+  "cow-0030": {
+    "predicted_plateau": 145,
+    "real_plateau": 142,
+    "accuracy": 3
+  },
+  "cow-0031": {
+    "predicted_plateau": 99,
+    "real_plateau": 158,
+    "accuracy": 59
+  },
+  "cow-0032": {
+    "predicted_plateau": 136,
+    "real_plateau": 133,
+    "accuracy": 3
+  },
+  "cow-0033": {
+    "predicted_plateau": 110,
+    "real_plateau": 104,
+    "accuracy": 6
+  },
+  "cow-0034": {
+    "predicted_plateau": 115,
+    "real_plateau": 107,
+    "accuracy": 8
+  },
+  "cow-0035": {
+    "predicted_plateau": 139,
+    "real_plateau": 131,
+    "accuracy": 8
+  },
+  "cow-0036": {
+    "predicted_plateau": 131,
+    "real_plateau": 125,
+    "accuracy": 6
+  },
+  "cow-0037": {
+    "predicted_plateau": 115,
+    "real_plateau": 113,
+    "accuracy": 2
+  },
+  "cow-0038": {
+    "predicted_plateau": 156,
+    "real_plateau": 149,
+    "accuracy": 7
+  },
+  "cow-0039": {
+    "predicted_plateau": 151,
+    "real_plateau": 148,
+    "accuracy": 3
+  },
+  "cow-0040": {
+    "predicted_plateau": 105,
+    "real_plateau": 100,
+    "accuracy": 5
+  },
+  "cow-0041": {
+    "predicted_plateau": 108,
+    "real_plateau": 101,
+    "accuracy": 7
+  },
+  "cow-0042": {
+    "predicted_plateau": 140,
+    "real_plateau": 132,
+    "accuracy": 8
+  },
+  "cow-0043": {
+    "predicted_plateau": 141,
+    "real_plateau": 138,
+    "accuracy": 3
+  },
+  "cow-0044": {
+    "predicted_plateau": 134,
+    "real_plateau": 130,
+    "accuracy": 4
+  },
+  "cow-0045": {
+    "predicted_plateau": 142,
+    "real_plateau": 136,
+    "accuracy": 6
+  },
+  "cow-0046": {
+    "predicted_plateau": 103,
+    "real_plateau": 100,
+    "accuracy": 3
+  },
+  "cow-0047": {
+    "predicted_plateau": 154,
+    "real_plateau": 145,
+    "accuracy": 9
+  },
+  "cow-0048": {
+    "predicted_plateau": 110,
+    "real_plateau": 105,
+    "accuracy": 5
+  },
+  "cow-0049": {
+    "predicted_plateau": 126,
+    "real_plateau": 116,
+    "accuracy": 10
+  },
+  "cow-0050": {
+    "predicted_plateau": 158,
+    "real_plateau": 152,
+    "accuracy": 6
+  },
+  "cow-0051": {
+    "predicted_plateau": 130,
+    "real_plateau": 149,
+    "accuracy": 19
+  },
+  "cow-0052": {
+    "predicted_plateau": 116,
+    "real_plateau": 113,
+    "accuracy": 3
+  },
+  "cow-0053": {
+    "predicted_plateau": 120,
+    "real_plateau": 114,
+    "accuracy": 6
+  },
+  "cow-0054": {
+    "predicted_plateau": 139,
+    "real_plateau": 138,
+    "accuracy": 1
+  },
+  "cow-0055": {
+    "predicted_plateau": 129,
+    "real_plateau": 126,
+    "accuracy": 3
+  },
+  "cow-0056": {
+    "predicted_plateau": 132,
+    "real_plateau": 130,
+    "accuracy": 2
+  },
+  "cow-0057": {
+    "predicted_plateau": 127,
+    "real_plateau": 127,
+    "accuracy": 0
+  },
+  "cow-0058": {
+    "predicted_plateau": 145,
+    "real_plateau": 142,
+    "accuracy": 3
+  },
+  "cow-0059": {
+    "predicted_plateau": 142,
+    "real_plateau": 140,
+    "accuracy": 2
+  },
+  "cow-0060": {
+    "predicted_plateau": 122,
+    "real_plateau": 118,
+    "accuracy": 4
+  },
+  "cow-0061": {
+    "predicted_plateau": 138,
+    "real_plateau": 130,
+    "accuracy": 8
+  },
+  "cow-0062": {
+    "predicted_plateau": 122,
+    "real_plateau": 115,
+    "accuracy": 7
+  },
+  "cow-0063": {
+    "predicted_plateau": 118,
+    "real_plateau": 115,
+    "accuracy": 3
+  },
+  "cow-0064": {
+    "predicted_plateau": 130,
+    "real_plateau": 122,
+    "accuracy": 8
+  },
+  "cow-0065": {
+    "predicted_plateau": 141,
+    "real_plateau": 134,
+    "accuracy": 7
+  },
+  "cow-0066": {
+    "predicted_plateau": 119,
+    "real_plateau": 110,
+    "accuracy": 9
+  },
+  "cow-0067": {
+    "predicted_plateau": 160,
+    "real_plateau": 156,
+    "accuracy": 4
+  },
+  "cow-0068": {
+    "predicted_plateau": 151,
+    "real_plateau": 144,
+    "accuracy": 7
+  },
+  "cow-0069": {
+    "predicted_plateau": 157,
+    "real_plateau": 150,
+    "accuracy": 7
+  },
+  "cow-0070": {
+    "predicted_plateau": 114,
+    "real_plateau": 111,
+    "accuracy": 3
+  },
+  "cow-0071": {
+    "predicted_plateau": 125,
+    "real_plateau": 117,
+    "accuracy": 8
+  },
+  "cow-0072": {
+    "predicted_plateau": 145,
+    "real_plateau": 142,
+    "accuracy": 3
+  },
+  "cow-0073": {
+    "predicted_plateau": 117,
+    "real_plateau": 114,
+    "accuracy": 3
+  },
+  "cow-0074": {
+    "predicted_plateau": 145,
+    "real_plateau": 139,
+    "accuracy": 6
+  },
+  "cow-0075": {
+    "predicted_plateau": 138,
+    "real_plateau": 134,
+    "accuracy": 4
+  },
+  "cow-0076": {
+    "predicted_plateau": 107,
+    "real_plateau": 100,
+    "accuracy": 7
+  },
+  "cow-0077": {
+    "predicted_plateau": 143,
+    "real_plateau": 141,
+    "accuracy": 2
+  },
+  "cow-0078": {
+    "predicted_plateau": 137,
+    "real_plateau": 147,
+    "accuracy": 10
+  },
+  "cow-0079": {
+    "predicted_plateau": 115,
+    "real_plateau": 109,
+    "accuracy": 6
+  },
+  "cow-0080": {
+    "predicted_plateau": 126,
+    "real_plateau": 121,
+    "accuracy": 5
+  },
+  "cow-0081": {
+    "predicted_plateau": 127,
+    "real_plateau": 120,
+    "accuracy": 7
+  },
+  "cow-0082": {
+    "predicted_plateau": 140,
+    "real_plateau": 157,
+    "accuracy": 17
+  },
+  "cow-0083": {
+    "predicted_plateau": 131,
+    "real_plateau": 144,
+    "accuracy": 13
+  },
+  "cow-0084": {
+    "predicted_plateau": 102,
+    "real_plateau": 100,
+    "accuracy": 2
+  },
+  "cow-0085": {
+    "predicted_plateau": 165,
+    "real_plateau": 160,
+    "accuracy": 5
+  },
+  "cow-0086": {
+    "predicted_plateau": 144,
+    "real_plateau": 158,
+    "accuracy": 14
+  },
+  "cow-0087": {
+    "predicted_plateau": 118,
+    "real_plateau": 114,
+    "accuracy": 4
+  },
+  "cow-0088": {
+    "predicted_plateau": 147,
+    "real_plateau": 156,
+    "accuracy": 9
+  },
+  "cow-0089": {
+    "predicted_plateau": 147,
+    "real_plateau": 141,
+    "accuracy": 6
+  },
+  "cow-0090": {
+    "predicted_plateau": 110,
+    "real_plateau": 102,
+    "accuracy": 8
+  },
+  "cow-0091": {
+    "predicted_plateau": 110,
+    "real_plateau": 104,
+    "accuracy": 6
+  },
+  "cow-0092": {
+    "predicted_plateau": 124,
+    "real_plateau": 118,
+    "accuracy": 6
+  },
+  "cow-0093": {
+    "predicted_plateau": 113,
+    "real_plateau": 110,
+    "accuracy": 3
+  },
+  "cow-0094": {
+    "predicted_plateau": 151,
+    "real_plateau": 147,
+    "accuracy": 4
+  },
+  "cow-0095": {
+    "predicted_plateau": 152,
+    "real_plateau": 144,
+    "accuracy": 8
+  },
+  "cow-0096": {
+    "predicted_plateau": 115,
+    "real_plateau": 147,
+    "accuracy": 32
+  },
+  "cow-0097": {
+    "predicted_plateau": 149,
+    "real_plateau": 145,
+    "accuracy": 4
+  },
+  "cow-0098": {
+    "predicted_plateau": 127,
+    "real_plateau": 124,
+    "accuracy": 3
+  },
+  "cow-0099": {
+    "predicted_plateau": 110,
+    "real_plateau": 100,
+    "accuracy": 10
+  },
+  "cow-0100": {
+    "predicted_plateau": 126,
+    "real_plateau": 121,
+    "accuracy": 5
+  }
+}
